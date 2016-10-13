@@ -1,25 +1,32 @@
 function App(lights out){
 
     //Declare your instance variables here.
-    this.strength
-    this.stamina
-    this.weight
+    this.memory
+    this.name
+    this.state
 
     //Declare the instance function open here.
-    this.open = function(lights out){
+    this.open = function(){
 
 
 
     };
-    //Declare the instance function sleep here.
+this.sleep = function
 
 
 
-    //Declare the instance function active here.
+this. active = function
 
 
 
-    //Declare the instance function close here.
+this. close = function 
+
+
+
+    close = c;
+
+
+
 
 
 
